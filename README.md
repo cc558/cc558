@@ -76,11 +76,8 @@ The project combines Dense Retrieval, BM25, query rewriting, MMR, and reranking.
 - 默认保留原图，不进行覆盖
 - 提供 Alpha 通道和透明像素验证结果
 - 已用于个人实际工作流
-- SkillHub 下载量超过 100 次
 
 A deterministic local image-processing tool that converts fake checkerboard transparency into a real PNG alpha channel while preserving foreground details.
-
-It has been used in real personal workflows and has received over **100 downloads on SkillHub**.
 
 ---
 
